@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Καπαρουνάκη Μαρίνα
+N:Καπαρουνάκη;Μαρίνα;;;
+ORG:CreteSupplies;Cyber Trading
+TITLE:Manager
+TEL;TYPE=WORK,VOICE:+302810326272
+TEL;TYPE=CELL,VOICE:+306970026313
+EMAIL;TYPE=WORK:mk@cretesupplies.gr
+EMAIL;TYPE=INTERNET:info@cretesupplies.gr
+URL:https://www.cretesupplies.gr/
+URL:https://www.cybertrading.gr/
+ADR;TYPE=WORK:;;Μάρκου Καραναστάση 32;Ηράκλειο;Κρήτη;71409;Ελλάδα
+NOTE:Εσωτερικό γραφείου 1003. CreteSupplies - IT Consulting, Cyber Security, VoIP, Print Management Solutions.
+END:VCARD

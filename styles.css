@@ -80,7 +80,6 @@ a {
   line-height: 1.45;
 }
 
-.save-main,
 .button,
 .site-links a {
   display: inline-flex;
@@ -97,7 +96,6 @@ a {
   box-shadow: 0 12px 24px rgba(0, 0, 0, 0.18);
 }
 
-.save-main,
 .button.primary {
   width: 100%;
   border: 0;
@@ -270,6 +268,12 @@ h2 {
   width: 100%;
   min-height: 46px;
   border-radius: 12px;
+}
+
+.button span {
+  white-space: normal;
+  text-align: center;
+  line-height: 1.12;
 }
 
 .button.primary.red {
